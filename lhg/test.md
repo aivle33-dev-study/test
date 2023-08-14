@@ -7,4 +7,4 @@
 이형길 test7
 이형길 test8
 이형길 test9
-이형길 파생 브랜치 test1
+lhg-b 브랜치 test
